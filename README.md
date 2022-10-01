@@ -81,4 +81,5 @@ Dentro de **Big Book of R**
 
 ## Programación
 
--[Programming in R (Software Carpentry)](https://swcarpentry.github.io/r-novice-inflammation/)
+-   [Programming in R (Software Carpentry)](https://swcarpentry.github.io/r-novice-inflammation/)
+-   [Hands-On Programming with R](https://rstudio-education.github.io/hopr/)
