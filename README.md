@@ -78,3 +78,7 @@ Dentro de **Big Book of R**
 ## Visualización
 
 - [An introduction to data visualization protocols for wet lab scientists](https://joachimgoedhart.github.io/DataViz-protocols/)
+
+## Programación
+
+-[Programming in R (Software Carpentry)](https://swcarpentry.github.io/r-novice-inflammation/)
