@@ -74,3 +74,7 @@ Dentro de **Big Book of R**
 -   [The tidyverse style guide](https://style.tidyverse.org)
 -   [Modern R with the tidyverse](https://b-rodrigues.github.io/modern_R/)
 -   [Tidyverse Skills for Data Science](https://jhudatascience.org/tidyversecourse/)
+
+## Visualización
+
+- [An introduction to data visualization protocols for wet lab scientists](https://joachimgoedhart.github.io/DataViz-protocols/)
