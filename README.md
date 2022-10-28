@@ -42,7 +42,7 @@ Los recurso deben cumplir ser **gratutitos** y al menos una  de las siguientes c
 
 ## El **recurso** de recursos {#El recurso}
 
-Este es un concentrador de recursos online. Esta es el mejor  pero contiene una diversidad de temáticas por lo que debmos buscar espec{ificamente lo que se necesite dentro de este.
+Este es un concentrador de recursos online. Esta es el mejor  pero contiene una diversidad de temáticas por lo que debmos buscar específicamente lo que se necesite dentro de este.
 
 [The Big Book of R](https://www.bigbookofr.com)
 
@@ -85,4 +85,4 @@ Dentro de **Big Book of R**
 
 ## Bioinformática
 
--[A little book of Bioinformatics](https://a-little-book-of-r-for-bioinformatics.readthedocs.io/en/latest/index.html)
+- [A little book of Bioinformatics](https://a-little-book-of-r-for-bioinformatics.readthedocs.io/en/latest/index.html)
