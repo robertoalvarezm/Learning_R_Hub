@@ -1,13 +1,12 @@
 # Learning R
 
-Recursos para aprender R. Acá pondré distintos recursos para aprender R de forma gratuita. Este sitio se actualiza cada que encuentro un recurso interesante y me acuerdo de ponerlo acá.
+Recursos para aprender R. Acá pondré distintos materiales para aprender R de forma gratuita. Este sitio se actualiza cada que encuentro un recurso interesante y me acuerdo de ponerlo acá.
 
 ### Una lista curada de material para aprender R.
 
-Los recurso deben cumplir al menos dos de las siguientes características:
+Los recurso deben cumplir ser **gratutitos** y al menos una  de las siguientes características:
 
 -   Alojado en un repositorio de GitHub o GitLab.
--   Gratuitos
 -   Escritos en (R)markdown o similar
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
@@ -43,7 +42,7 @@ Los recurso deben cumplir al menos dos de las siguientes características:
 
 ## El **recurso** de recursos {#El recurso}
 
-Este es un concentrador de recursos online. Esta es el mejor recurso pero contiene una diversidad de temáticas.
+Este es un concentrador de recursos online. Esta es el mejor  pero contiene una diversidad de temáticas por lo que debmos buscar espec{ificamente lo que se necesite dentro de este.
 
 [The Big Book of R](https://www.bigbookofr.com)
 
@@ -83,3 +82,7 @@ Dentro de **Big Book of R**
 
 -   [Programming in R (Software Carpentry)](https://swcarpentry.github.io/r-novice-inflammation/)
 -   [Hands-On Programming with R](https://rstudio-education.github.io/hopr/)
+
+## Bioinformática
+
+-[A little book of Bioinformatics](https://a-little-book-of-r-for-bioinformatics.readthedocs.io/en/latest/index.html)
