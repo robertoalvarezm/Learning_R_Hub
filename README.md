@@ -1,10 +1,11 @@
 # Learning R
 
-Recursos para aprender R. Acá pondré distintos materiales para aprender R de forma gratuita. Este sitio se actualiza cada que encuentro un recurso interesante y me acuerdo de ponerlo acá.
+Recursos para aprender R. 
+Acá pondré distintos materiales para aprender R de forma gratuita. Este sitio se actualiza cada que encuentro un recurso interesante y me acuerdo de ponerlo acá.
 
 ### Una lista curada de material para aprender R.
 
-Los recurso deben cumplir ser **gratutitos** y al menos una  de las siguientes características:
+Los recurso deben cumplir ser **gratutitos** y al menos una  de las dos siguientes características:
 
 -   Alojado en un repositorio de GitHub o GitLab.
 -   Escritos en (R)markdown o similar
